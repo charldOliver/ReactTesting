@@ -2,11 +2,11 @@ import { useState } from 'react'
 import './App.css'
 
 import {
-  capitalize,
-  getAlpha2Code,
-  countryListLookup,
-  getResponse,
-} from "./language_spoken.test"; // <-- Correct import path for the source file (language_spoken.ts)
+  capitalize,
+  getAlpha2Code,
+  countryListLookup,
+  getResponse,
+} from "./language_spoken.test";  
 
 
 export default function App() {
